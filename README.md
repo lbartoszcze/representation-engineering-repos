@@ -53,6 +53,7 @@ Novel and hybrid approaches:
 - [Honest LLaMA](https://github.com/likenneth/honest_llama) - Improving model honesty through representations
 - [Probing LLaMA](https://github.com/Jometeorie/probing_llama) - Probing techniques for LLaMA models
 - [Function Vectors](https://github.com/ericwtodd/function_vectors) - Vector-based function manipulation
+- [INNSteer](https://github.com/nguyentuc/INNSteer) - Nonlinear activation steering through invertible latent transformations ([NeurIPS 2026 Spotlight](https://arxiv.org/abs/2606.08454))
 
 ## Contributing
 
